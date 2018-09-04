@@ -1,0 +1,5 @@
+Damage A: 29 | 38
+Damage B: 58 | 75
+Charge Ammo: 57
+Charge MaxTime: 7
+Charge Cooldown: 15

@@ -1,0 +1,4 @@
+3
+weapon			640 at4cs	0	0	170	45
+weapon_s		640 at4cs	0	0	170	45
+ammo			640 640hud7 0	96	24	24

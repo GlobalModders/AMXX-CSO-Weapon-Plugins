@@ -1,0 +1,5 @@
+4
+weapon			640 640hud108_2	0	180	170	45
+weapon_s		640 640hud109_2	0	0	170	45
+ammo			640 640hud13_2	24	232	24	24
+crosshair		640 scope_grenade	0	0	256	256

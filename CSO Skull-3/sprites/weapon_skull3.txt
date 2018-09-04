@@ -1,0 +1,4 @@
+3
+weapon			640 skull3_hud	0	0	170	45
+weapon_s		640 skull3_hud	0	45	170	45
+ammo			640 skull3_ammo	49	231	24	24
